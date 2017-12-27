@@ -28,6 +28,7 @@ def display_board(board)
 
   elsif board == ["X", " ", " ", " ","X", " ", " ", " ", "X"]
     show_board(board)
+    
   elsif board == [" ", " ", "O", " ","O", " ", "O", " ", " "]
     show_board(board)
 
